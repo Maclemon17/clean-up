@@ -5,9 +5,9 @@ import flexSchedule from '../assets/images/window-cleaning.jpg';
 const WhyChooseUs = () => {
     return (
         <section className="py-10 px-10 lg:px-20">
-            <div className="grid grid-cols-2 gap-24 mb-3">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-24 text-center md:text-left mb-5 md:mb-3">
                 <h2 className="text-4xl font-bold">Why Choose Us</h2>
-                <p className="text-lg font-medium">Whether it's your home, office or rental property. <br /> We make your space your space sparkle</p>
+                <p className="text-lg font-medium max-w-2xl md:max-w-md">Whether it's your home, office or rental property. We make your space sparkle</p>
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 ">

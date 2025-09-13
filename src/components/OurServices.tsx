@@ -27,7 +27,7 @@ const OurServices = () => {
     ]
 
     return (
-        <section className="px-10 py-16 lg:px-20 overflow-x-hidden">
+        <section className="px-10 py-10 lg:px-20 overflow-x-hidden">
             <h2 className="text-4xl font-bold text-center mb-16 mt-3">Our Services</h2>
 
             {/* SERVICES CARD */}
