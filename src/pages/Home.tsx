@@ -1,3 +1,4 @@
+import Footer from "../components/Footer"
 import GetQuote from "../components/GetQuote"
 import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
@@ -17,6 +18,7 @@ const Home = () => {
             <OurTeam />
             <GetQuote />
             <Testimonials />
+            <Footer />
         </>
     )
 }
